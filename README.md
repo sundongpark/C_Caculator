@@ -1,4 +1,4 @@
-# String_Caculator
+# String_Calculator
 
 문자열 입력으로 작동하는 계산기입니다.
 
