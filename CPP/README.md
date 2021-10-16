@@ -27,6 +27,8 @@
 
 (3.2+(3+82.4+61.2)/26.5)+3
 
+![image](https://user-images.githubusercontent.com/73617312/137582847-42ad7445-919c-44ed-91fa-a6dc415e5c08.png)
+
 ---
 * 잘못된 수식 테스트
 
