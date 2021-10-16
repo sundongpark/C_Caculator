@@ -1,4 +1,4 @@
-# C++_Caculator
+# C++_Calculator
 
 문자열 입력으로 작동하는 계산기입니다.
 
